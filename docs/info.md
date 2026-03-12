@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Converts an analog signal ranging from 1.8 V to 2 V into a 2-bit encoded digital output.
 
 ## How to test
 
-Explain how to use your project
+Apply an analog input voltage ranging from 0 V to 1.8 V to Analog Pin 0. The circuit converts this input into a 2-bit encoded digital output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+FPGA
