@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Converts an analog signal ranging from 1.8 V to 2 V into a 2-bit encoded digital output.
+It converts an analog input voltage into a 2-bit digital output
 
 ## How to test
 
